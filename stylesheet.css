@@ -1,0 +1,11 @@
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    background-color: beige;
+    border-collapse: collapse;
+    border-spacing: 5px;
+    padding: 20px
+}
+body {
+    background-color: #56c6c6;
+}
